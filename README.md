@@ -1,1 +1,1 @@
-# Discord-Anticrash-Bot
+# Discord-Verify-Bot
